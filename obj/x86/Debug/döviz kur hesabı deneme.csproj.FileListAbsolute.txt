@@ -1,0 +1,23 @@
+C:\Users\Samsung\Desktop\döviz kur hesabı deneme\döviz kur hesabı deneme\obj\x86\Debug\döviz_kur_hesabı_deneme.Form1.resources
+C:\Users\Samsung\Desktop\döviz kur hesabı deneme\döviz kur hesabı deneme\obj\x86\Debug\döviz_kur_hesabı_deneme.Properties.Resources.resources
+C:\Users\Samsung\Desktop\döviz kur hesabı deneme\döviz kur hesabı deneme\obj\x86\Debug\döviz kur hesabı deneme.csproj.GenerateResource.Cache
+C:\Users\Samsung\Desktop\döviz kur hesabı deneme\döviz kur hesabı deneme\bin\Debug\döviz kur hesabı deneme.exe
+C:\Users\Samsung\Desktop\döviz kur hesabı deneme\döviz kur hesabı deneme\bin\Debug\döviz kur hesabı deneme.pdb
+C:\Users\Samsung\Desktop\döviz kur hesabı deneme\döviz kur hesabı deneme\obj\x86\Debug\döviz kur hesabı deneme.exe
+C:\Users\Samsung\Desktop\döviz kur hesabı deneme\döviz kur hesabı deneme\obj\x86\Debug\döviz kur hesabı deneme.pdb
+C:\Users\Samsung\Desktop\c# ödevler\döviz kur hesabı deneme\döviz kur hesabı deneme\obj\x86\Debug\döviz kur hesabı deneme.exe
+C:\Users\Samsung\Desktop\c# ödevler\döviz kur hesabı deneme\döviz kur hesabı deneme\obj\x86\Debug\döviz kur hesabı deneme.pdb
+C:\Users\Samsung\Desktop\c# ödevler\döviz kur hesabı deneme\döviz kur hesabı deneme\bin\Debug\döviz kur hesabı deneme.exe
+C:\Users\Samsung\Desktop\c# ödevler\döviz kur hesabı deneme\döviz kur hesabı deneme\bin\Debug\döviz kur hesabı deneme.pdb
+C:\Users\Samsung\Desktop\c# ödevler\döviz kur hesabı deneme\döviz kur hesabı deneme\obj\x86\Debug\döviz kur hesabı deneme.csprojResolveAssemblyReference.cache
+C:\Users\Samsung\Desktop\c# ödevler\döviz kur hesabı deneme\döviz kur hesabı deneme\obj\x86\Debug\döviz_kur_hesabı_deneme.Form1.resources
+C:\Users\Samsung\Desktop\c# ödevler\döviz kur hesabı deneme\döviz kur hesabı deneme\obj\x86\Debug\döviz_kur_hesabı_deneme.Properties.Resources.resources
+C:\Users\Samsung\Desktop\c# ödevler\döviz kur hesabı deneme\döviz kur hesabı deneme\obj\x86\Debug\döviz kur hesabı deneme.csproj.GenerateResource.Cache
+F:\döviz kur hesabı deneme\döviz kur hesabı deneme\obj\x86\Debug\döviz kur hesabı deneme.exe
+F:\döviz kur hesabı deneme\döviz kur hesabı deneme\obj\x86\Debug\döviz kur hesabı deneme.pdb
+F:\döviz kur hesabı deneme\döviz kur hesabı deneme\bin\Debug\döviz kur hesabı deneme.exe
+F:\döviz kur hesabı deneme\döviz kur hesabı deneme\bin\Debug\döviz kur hesabı deneme.pdb
+F:\döviz kur hesabı deneme\döviz kur hesabı deneme\obj\x86\Debug\döviz kur hesabı deneme.csprojResolveAssemblyReference.cache
+F:\döviz kur hesabı deneme\döviz kur hesabı deneme\obj\x86\Debug\döviz_kur_hesabı_deneme.Form1.resources
+F:\döviz kur hesabı deneme\döviz kur hesabı deneme\obj\x86\Debug\döviz_kur_hesabı_deneme.Properties.Resources.resources
+F:\döviz kur hesabı deneme\döviz kur hesabı deneme\obj\x86\Debug\döviz kur hesabı deneme.csproj.GenerateResource.Cache
